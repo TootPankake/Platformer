@@ -1,4 +1,2 @@
 # Platformer
-practice game
-demo game
-one level
+Demo Platformer game
